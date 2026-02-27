@@ -3,7 +3,7 @@ This is the repository for the paper [SAGE: Steerable Agentic Data Generation fo
 Deep Search with Execution Feedback](https://arxiv.org/pdf/2601.18202).
 
 
-The code and data will be released soon.
+Please refer to this [link](https://github.com/google-research/google-research/tree/master/sage) for code and data.
 
 
 ## Citation
